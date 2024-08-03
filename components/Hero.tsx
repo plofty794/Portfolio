@@ -56,7 +56,8 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Ace, a React JS Developer based in Philippines.
+            Hi! I&apos;m Ace, an aspiring Frontend Developer based from the
+            Philippines.
           </p>
 
           <a href="#about">
