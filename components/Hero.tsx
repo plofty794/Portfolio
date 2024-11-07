@@ -44,7 +44,6 @@ const Hero = () => {
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
             Dynamic Web Magic with React JS
           </p>
-
           {/**
            *  Link: https://ui.aceternity.com/components/text-generate-effect
            *
